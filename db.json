@@ -1,8 +1,8 @@
 {
   "main": [
-    "suggest": [{ "id": 1, "title": "Post 1", "content": "the best1", "thumbnail": "url" }],
-    "new": [{ "id": 1, "title": "Post 2", "content": "the best2", "thumbnail": "url" }],
-    "sold": [{ "id": 3, "title": "Post 3", "content": "the best3", "thumbnail": "url" }]
+    { "id": 1, "title": "Post 1", "content": "the best1", "thumbnail": "url" },
+    { "id": 1, "title": "Post 2", "content": "the best2", "thumbnail": "url" },
+    { "id": 3, "title": "Post 3", "content": "the best3", "thumbnail": "url" }
   ],
   "category": [
     { "id": 1, "body": "some comment", "postId": 1 },
