@@ -1,8 +1,9 @@
 {
   "main": [
-    { "id": 1, "title": "Post 1", "content": "the best1", "thumbnail": "url", "type":"suggest" },
-    { "id": 1, "title": "Post 2", "content": "the best2", "thumbnail": "url", "type":"new" },
-    { "id": 3, "title": "Post 3", "content": "the best3", "thumbnail": "url", "type":"pay" }
+    "suggest": [{ "id": 1, "title": "Post 1", "content": "the best1", "thumbnail": "url", "type":"suggest" }],
+    "new": [{ "id": 1, "title": "Post 2", "content": "the best2", "thumbnail": "url", "type":"new" }],  
+    "pay": [{ "id": 3, "title": "Post 3", "content": "the best3", "thumbnail": "url", "type":"pay" }]
+    
   ],
   "category": [
     { "id": 1, "body": "some comment", "postId": 1 },
