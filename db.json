@@ -1,8 +1,23 @@
 {
-  "suggest": [
-    { "id": 1, "title": "ادبیات فارسی", "content": "the best1", "thumbnail": "http://chap.sch.ir/sites/default/files/styles/image_node_book/public/book_image/96-97/C283-1.jpg?itok=KwkFjmUT" , "link":"http://chap.sch.ir/sites/default/files/lbooks/97-98/711/C112214.pdf", "price":"2000" },
-    { "id": 2, "title": "حسابان", "content": "the best2", "thumbnail": "http://chap.sch.ir/sites/default/files/styles/image_node_book/public/book_image/93-94/C258-1.jpg?itok=uLOpjoPP" , "link":"http://chap.sch.ir/sites/default/files/lbooks/97-98/711/C112214.pdf", "price":"2000" },  
-    { "id": 3, "title": "ادبیات فارسی", "content": "the best3", "thumbnail": "http://chap.sch.ir/sites/default/files/styles/image_node_book/public/book_image/96-97/C283-1.jpg?itok=KwkFjmUT" , "link":"http://chap.sch.ir/sites/default/files/lbooks/97-98/711/C112214.pdf", "price":"2000"  }
+  "view": [
+    { "type": "LinearLayout", "orientation": "vertical", "padding": "16dp",
+     "children":
+      [ 
+        {
+          "type": "TextView",
+          "textSize": "14sp",
+          "gravity": "center",
+          "text": "Ahmad"
+        }
+        {
+          "type": "TextView",
+          "textSize": "16sp",
+          "gravity": "center",
+          "textStyle": "Bold",
+          "text": "Ahmad"
+        }
+      ]            
+    },
   ],
    "new": [
     { "id": 1, "title": "ادبیات فارسی", "content": "the best1", "thumbnail": "http://chap.sch.ir/sites/default/files/styles/image_node_book/public/book_image/96-97/C283-1.jpg?itok=KwkFjmUT" , "link":"http://chap.sch.ir/sites/default/files/lbooks/97-98/711/C112214.pdf", "price":"2000" },
