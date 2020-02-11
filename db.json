@@ -8,13 +8,16 @@
         "children":
             [ 
               "TextView":
+              [
                 {
                     "type": "TextView",
                     "textSize": "14sp",
                     "gravity": "center",
                     "text": "Ahmad"
                 },
+              ],  
               "TextView":
+              [
                 {
                     "type": "TextView",
                     "textSize": "16sp",
@@ -22,6 +25,7 @@
                     "textStyle": "Bold",
                     "text": "Ahmad"
                 }
+              ]  
       ]            
     }
   ]
