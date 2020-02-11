@@ -1,23 +1,26 @@
-"view": [
-    { 
-     "type": "LinearLayout",
-     "orientation": "vertical", 
-     "padding": "16dp",
-     "children":
-      [ 
-        {
-          "type": "TextView",
-          "textSize": "14sp",
-          "gravity": "center",
-          "text": "Ahmad"
-        },
-        {
-          "type": "TextView",
-          "textSize": "16sp",
-          "gravity": "center",
-          "textStyle": "Bold",
-          "text": "Ahmad"
-        }
+{
+    "view": 
+    [
+        { 
+         "type": "LinearLayout",
+        "orientation": "vertical", 
+        "padding": "16dp",
+        "children":
+            [ 
+                {
+                    "type": "TextView",
+                    "textSize": "14sp",
+                    "gravity": "center",
+                    "text": "Ahmad"
+                },
+                {
+                    "type": "TextView",
+                    "textSize": "16sp",
+                    "gravity": "center",
+                    "textStyle": "Bold",
+                    "text": "Ahmad"
+                }
       ]            
     }
   ]
+}
