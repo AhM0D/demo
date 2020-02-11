@@ -11,7 +11,7 @@
           "textSize": "14sp",
           "gravity": "center",
           "text": "Ahmad"
-        }
+        },
         {
           "type": "TextView",
           "textSize": "16sp",
