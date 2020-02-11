@@ -1,6 +1,9 @@
 {
   "view": [
-    { "type": "LinearLayout", "orientation": "vertical", "padding": "16dp",
+    { 
+     "type": "LinearLayout",
+     "orientation": "vertical", 
+     "padding": "16dp",
      "children":
       [ 
         {
@@ -17,7 +20,7 @@
           "text": "Ahmad"
         }
       ]            
-    },
+    }
   ],
    "new": [
     { "id": 1, "title": "ادبیات فارسی", "content": "the best1", "thumbnail": "http://chap.sch.ir/sites/default/files/styles/image_node_book/public/book_image/96-97/C283-1.jpg?itok=KwkFjmUT" , "link":"http://chap.sch.ir/sites/default/files/lbooks/97-98/711/C112214.pdf", "price":"2000" },
